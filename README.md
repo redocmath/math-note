@@ -20,5 +20,6 @@ English, Korean
 
 ---
 - Week 1 (Analysis) - [Introduction of Analysis](week1.pdf)
-- 
+- Week 2 (Differential Geometry) - Differential Form (On Inspection)
+- Week 3 (Group Theory) - TBD
 
